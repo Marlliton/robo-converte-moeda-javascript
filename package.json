@@ -1,0 +1,10 @@
+{
+  "name": "robo-converte-moeda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
